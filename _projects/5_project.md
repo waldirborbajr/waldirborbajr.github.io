@@ -1,15 +1,21 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: KVStok
+description: KVStoK is an open-source software
+img: assets/img/kvstok-logo.png
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+tl;dr: KVStoK is an open-source software built-in with the main aim of being a personal [KEY][VALUE] store, to keep system variables as parameters or passwords or anything else stored in a single place.
+
+With KVStoK you do not need to export a variable to use in your terminal routines and you can open a lot of terminals and you will always keep the content available to use.
+
+Is KVStoK good for DevOps? Yes, if you work with DevOps and have to manage a lot of credentials, KVStoK is up to you.
+
+I am a streamer (twitch, youtube, online class, etc.), is KVStoK ready for me? Yes, online producer, KVStoK it is up to you because you do not need anymore hide or blur your screen to type any sensible data.
+
+Can I manage my credentials remotely from the cloud? No, unfortunately, KVStoK, for security reasons is not available to manage or store credentials on the cloud. In the soon future will be possible to manage all credentials in a single place with security and performance.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

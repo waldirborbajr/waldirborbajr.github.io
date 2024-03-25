@@ -1,16 +1,19 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: GLink
+description: glink, a.k.a GOlang Symbolic Link (symlink).
+img: assets/img/glink-logo.png
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+tl;dr: glink, a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
+
+As GNU Stow, glink is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
+
+With glink it is eeasy to track and manage configuration files in the user's home directory, especially when coupled with version control systems.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

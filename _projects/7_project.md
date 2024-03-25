@@ -1,16 +1,15 @@
 ---
 layout: page
-title: GitPushUp
-description: DevOps Automation Command Line Tool
-img: assets/img/gitpushup-logo.png
-redirect: https://unsplash.com
-importance: 3
+title: srm (Safe ReMove)
+description: srm is a command-line Safe ReMove file, that allows recovery if necessary.
+img: assets/img/srm-logo.png
+importance: 7
 category: work
 ---
 
-A simple command line tool written in Rust programming language. It automates the process of adding all files, committing changes, andpushing them to the remote repository. This tool is designed to streamline the Git workflow, making it faster and more convenient.
+tl;dr: srm is a command-line Safe ReMove file, that allows recovery if necessary.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Deleted files are sent to (~/.srm/) giving you a chance to recover it.
 
     ---
     layout: page
