@@ -3,7 +3,6 @@ layout: page
 title: GitPushUp
 description: DevOps Automation Command Line Tool
 img: assets/img/gitpushup-logo.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
