@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://waldirborbajr.github.io//sitemap.xml
